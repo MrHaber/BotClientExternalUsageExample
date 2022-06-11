@@ -1,0 +1,6 @@
+main: ru.Haber.VkChat.VkToMinecraftChat
+author: MrHaber
+version: 0.1
+name: PiloteVkChat
+commands:
+ vk:

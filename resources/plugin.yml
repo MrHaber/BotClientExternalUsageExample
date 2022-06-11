@@ -1,0 +1,6 @@
+main: ru.Haber.Spigot.MinecraftPlugin.MainMinecraftPlugin
+author: MrHaber
+version: 0.1
+name: MinecraftVk
+commands:
+    vk:
